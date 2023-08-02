@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "absolute path"
+the project is about showing the absolute path of the repository
